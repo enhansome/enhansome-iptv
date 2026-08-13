@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T19:33:47Z",
+            "last_commit": "2026-08-13T19:27:05Z",
             "owner": "clsid2",
             "repo": "mpc-hc",
-            "stars": 15436
+            "stars": 15448
           }
         },
         {
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:49:10Z",
+            "last_commit": "2026-08-13T20:30:09Z",
             "owner": "4gray",
             "repo": "iptvnator",
-            "stars": 6803
+            "stars": 6808
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T18:26:52Z",
+            "last_commit": "2026-08-13T05:25:05Z",
             "owner": "jellyfin",
             "repo": "jellyfin-desktop",
-            "stars": 5586
+            "stars": 5592
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-06-14T16:22:05Z",
             "owner": "Fredolx",
             "repo": "open-tv",
-            "stars": 3965
+            "stars": 3967
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-10T19:22:34Z",
             "owner": "zaps166",
             "repo": "QMPlay2",
-            "stars": 1167
+            "stars": 1170
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-12T22:01:47Z",
             "owner": "tbeezy",
             "repo": "ynotv",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -176,7 +176,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-11T06:05:25Z",
+            "last_commit": "2026-08-13T23:02:17Z",
             "owner": "TNT-Likely",
             "repo": "xplayer",
             "stars": 149
@@ -204,7 +204,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:53:28Z",
+            "last_commit": "2026-08-13T21:34:58Z",
             "owner": "infinitel8p",
             "repo": "Extreme-InfiniTV",
             "stars": 97
@@ -235,7 +235,7 @@
             "last_commit": "2026-07-26T14:59:59Z",
             "owner": "kristofferR",
             "repo": "IPTVChecker",
-            "stars": 70
+            "stars": 71
           }
         },
         {
@@ -288,7 +288,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T12:35:45Z",
+            "last_commit": "2026-08-13T10:37:37Z",
             "owner": "aherrick",
             "repo": "AndyTV",
             "stars": 10
@@ -358,7 +358,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T02:53:46Z",
+            "last_commit": "2026-08-13T15:46:39Z",
             "owner": "orel56000",
             "repo": "CommunityIPTVPlayer",
             "stars": 0
@@ -378,10 +378,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:49:10Z",
+            "last_commit": "2026-08-13T20:30:09Z",
             "owner": "4gray",
             "repo": "iptvnator",
-            "stars": 6803
+            "stars": 6808
           }
         },
         {
@@ -392,10 +392,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T18:26:52Z",
+            "last_commit": "2026-08-13T05:25:05Z",
             "owner": "jellyfin",
             "repo": "jellyfin-desktop",
-            "stars": 5586
+            "stars": 5592
           }
         },
         {
@@ -409,7 +409,7 @@
             "last_commit": "2026-08-10T19:22:34Z",
             "owner": "zaps166",
             "repo": "QMPlay2",
-            "stars": 1167
+            "stars": 1170
           }
         },
         {
@@ -434,7 +434,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-11T06:05:25Z",
+            "last_commit": "2026-08-13T23:02:17Z",
             "owner": "TNT-Likely",
             "repo": "xplayer",
             "stars": 149
@@ -448,7 +448,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:53:28Z",
+            "last_commit": "2026-08-13T21:34:58Z",
             "owner": "infinitel8p",
             "repo": "Extreme-InfiniTV",
             "stars": 97
@@ -479,7 +479,7 @@
             "last_commit": "2026-07-26T14:59:59Z",
             "owner": "kristofferR",
             "repo": "IPTVChecker",
-            "stars": 70
+            "stars": 71
           }
         },
         {
@@ -546,7 +546,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T02:53:46Z",
+            "last_commit": "2026-08-13T15:46:39Z",
             "owner": "orel56000",
             "repo": "CommunityIPTVPlayer",
             "stars": 0
@@ -566,10 +566,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:49:10Z",
+            "last_commit": "2026-08-13T20:30:09Z",
             "owner": "4gray",
             "repo": "iptvnator",
-            "stars": 6803
+            "stars": 6808
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2026-06-14T16:22:05Z",
             "owner": "Fredolx",
             "repo": "open-tv",
-            "stars": 3965
+            "stars": 3967
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-02-11T14:29:01Z",
             "owner": "linuxmint",
             "repo": "hypnotix",
-            "stars": 1733
+            "stars": 1736
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2026-08-10T19:22:34Z",
             "owner": "zaps166",
             "repo": "QMPlay2",
-            "stars": 1167
+            "stars": 1170
           }
         },
         {
@@ -664,7 +664,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-11T06:05:25Z",
+            "last_commit": "2026-08-13T23:02:17Z",
             "owner": "TNT-Likely",
             "repo": "xplayer",
             "stars": 149
@@ -692,7 +692,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:53:28Z",
+            "last_commit": "2026-08-13T21:34:58Z",
             "owner": "infinitel8p",
             "repo": "Extreme-InfiniTV",
             "stars": 97
@@ -723,7 +723,7 @@
             "last_commit": "2026-07-26T14:59:59Z",
             "owner": "kristofferR",
             "repo": "IPTVChecker",
-            "stars": 70
+            "stars": 71
           }
         },
         {
@@ -846,7 +846,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T02:53:46Z",
+            "last_commit": "2026-08-13T15:46:39Z",
             "owner": "orel56000",
             "repo": "CommunityIPTVPlayer",
             "stars": 0
@@ -869,7 +869,7 @@
             "last_commit": "2026-08-12T00:56:25Z",
             "owner": "oxyroid",
             "repo": "M3UAndroid",
-            "stars": 1225
+            "stars": 1226
           }
         },
         {
@@ -883,7 +883,7 @@
             "last_commit": "2026-07-12T18:39:48Z",
             "owner": "Davidona",
             "repo": "StreamVault-IPTV",
-            "stars": 600
+            "stars": 603
           }
         },
         {
@@ -936,7 +936,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-11T06:05:25Z",
+            "last_commit": "2026-08-13T23:02:17Z",
             "owner": "TNT-Likely",
             "repo": "xplayer",
             "stars": 149
@@ -964,7 +964,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:53:28Z",
+            "last_commit": "2026-08-13T21:34:58Z",
             "owner": "infinitel8p",
             "repo": "Extreme-InfiniTV",
             "stars": 97
@@ -992,7 +992,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T02:53:46Z",
+            "last_commit": "2026-08-13T15:46:39Z",
             "owner": "orel56000",
             "repo": "CommunityIPTVPlayer",
             "stars": 0
@@ -1015,7 +1015,7 @@
             "last_commit": "2026-07-12T18:39:48Z",
             "owner": "Davidona",
             "repo": "StreamVault-IPTV",
-            "stars": 600
+            "stars": 603
           }
         },
         {
@@ -1026,7 +1026,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-11T06:05:25Z",
+            "last_commit": "2026-08-13T23:02:17Z",
             "owner": "TNT-Likely",
             "repo": "xplayer",
             "stars": 149
@@ -1040,7 +1040,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:53:28Z",
+            "last_commit": "2026-08-13T21:34:58Z",
             "owner": "infinitel8p",
             "repo": "Extreme-InfiniTV",
             "stars": 97
@@ -1077,7 +1077,7 @@
             "last_commit": "2026-03-02T23:10:21Z",
             "owner": "technomancer702",
             "repo": "nodecast-tv",
-            "stars": 1458
+            "stars": 1457
           }
         },
         {
@@ -1088,7 +1088,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T17:57:46Z",
+            "last_commit": "2026-08-13T22:10:36Z",
             "owner": "m3ue",
             "repo": "m3u-editor",
             "stars": 817
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-07-07T07:50:29Z",
             "owner": "Free-TV",
             "repo": "IPTV",
-            "stars": 19798
+            "stars": 19810
           }
         },
         {
@@ -1181,7 +1181,7 @@
             "last_commit": "2026-08-13T01:37:48Z",
             "owner": "laoma2053",
             "repo": "awesome-zhuiju-free",
-            "stars": 5663
+            "stars": 5721
           }
         }
       ],
@@ -1198,7 +1198,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T03:09:44Z",
+            "last_commit": "2026-08-13T22:28:22Z",
             "owner": "fanmingming",
             "repo": "live",
             "stars": 28338
@@ -1212,7 +1212,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T01:20:53Z",
+            "last_commit": "2026-08-13T20:10:35Z",
             "owner": "picons",
             "repo": "picons",
             "stars": 300
@@ -1249,7 +1249,7 @@
             "last_commit": "2024-08-04T17:43:46Z",
             "owner": "xteve-project",
             "repo": "xTeVe",
-            "stars": 2260
+            "stars": 2258
           }
         },
         {
@@ -1263,7 +1263,7 @@
             "last_commit": "2025-10-03T15:28:35Z",
             "owner": "Threadfin",
             "repo": "Threadfin",
-            "stars": 1684
+            "stars": 1686
           }
         },
         {
@@ -1386,7 +1386,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-07-14T14:14:24Z",
+            "last_commit": "2026-08-13T22:30:39Z",
             "owner": "novaheadend",
             "repo": "nova-core-releases",
             "stars": 8
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:52.504Z",
+    "last_updated": "2026-08-13T23:06:17.589Z",
     "original_repository": "iptv-org/awesome-iptv",
     "original_repository_sha": "f2807be207e8cbcdc00128a946043586b81988cd",
     "enhanced_repository": "enhansome/enhansome-iptv",
