@@ -1,0 +1,1412 @@
+{
+  "items": [
+    {
+      "description": "Applications with support of IPTV streams.",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IPTV RestreamHub",
+          "description": "A comprehensive solution for synchronized IPTV watching (Watch2Gether), restreaming, proxying connection-limited playlists, and combining or sharing playlists seamlessly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-18T17:43:11Z",
+            "owner": "antebrl",
+            "repo": "IPTV-Restream",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wizju IPTV Player",
+          "description": "Lightweight, modern, browser‑based IPTV player built with Vue 3, Vite, TypeScript, Pinia, TailwindCSS and Video.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-10T05:30:02Z",
+            "owner": "j2jstudio",
+            "repo": "wizju-iptv-player",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreamVault",
+          "description": "Browser-based IPTV client supporting Xtream Codes, Stalker Portal (MAC auth), and M3U with favorites, watch history, EPG guide, and multi-connection switching. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T01:33:31Z",
+            "owner": "cowpooo-source",
+            "repo": "StreamVault",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MPC-HC",
+          "description": "Free and open-source video and audio player for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:33:47Z",
+            "owner": "clsid2",
+            "repo": "mpc-hc",
+            "stars": 15436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPTVnator",
+          "description": "Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:49:10Z",
+            "owner": "4gray",
+            "repo": "iptvnator",
+            "stars": 6803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jellyfin Desktop",
+          "description": "Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T18:26:52Z",
+            "owner": "jellyfin",
+            "repo": "jellyfin-desktop",
+            "stars": 5586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open TV",
+          "description": "Ultra-fast, simple and powerful cross-platform IPTV app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-14T16:22:05Z",
+            "owner": "Fredolx",
+            "repo": "open-tv",
+            "stars": 3965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QMPlay2",
+          "description": "A video and audio player which can play most formats and codecs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T19:22:34Z",
+            "owner": "zaps166",
+            "repo": "QMPlay2",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termv",
+          "description": "A terminal IPTV player written in bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-27T13:38:39Z",
+            "owner": "Roshan-R",
+            "repo": "termv",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ynoTV",
+          "description": "A feature-rich, open source IPTV player for Windows built on Tauri v2 and mpv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:01:47Z",
+            "owner": "tbeezy",
+            "repo": "ynotv",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xtream IPTV Player by MY-1",
+          "description": "An IPTV player that supports M3U_plus playlists and the Xtream Codes API, allowing users to manage and play IPTV channels, movies, and TV series.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T13:36:57Z",
+            "owner": "Cyogenus",
+            "repo": "XTREME-IPTV-PLAYER-by-MY-1",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XPlayer",
+          "description": "Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T06:05:25Z",
+            "owner": "TNT-Likely",
+            "repo": "xplayer",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAC & Stalker IPTV Player by MY-1",
+          "description": "Stream Live TV, VOD, and Series from MAC-based and Stalker IPTV portals directly on Windows with powerful extra features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T13:34:57Z",
+            "owner": "Cyogenus",
+            "repo": "IPTV-MAC-STALKER-PLAYER-BY-MY-1",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extreme InfiniTV",
+          "description": "Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:53:28Z",
+            "owner": "infinitel8p",
+            "repo": "Extreme-InfiniTV",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuthoIPTV",
+          "description": "A feature-rich Electron-powered IPTV player designed for desktop users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-02T11:52:13Z",
+            "owner": "glitport",
+            "repo": "AuthoIPTV",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPTV Checker",
+          "description": "Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-26T14:59:59Z",
+            "owner": "kristofferR",
+            "repo": "IPTVChecker",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sbtlTV",
+          "description": "A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T16:02:48Z",
+            "owner": "thesubtleties",
+            "repo": "sbtlTV",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QiTV",
+          "description": "A cross-platform STB, Xtream and IPTV player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T01:54:20Z",
+            "owner": "ozankaraali",
+            "repo": "QiTV",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stream-Recorder",
+          "description": "Flexible IPTV player and recorder with EPG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T16:16:00Z",
+            "owner": "sc44",
+            "repo": "Stream-Recorder",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndyTV",
+          "description": "A lightweight, open-source IPTV player for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T12:35:45Z",
+            "owner": "aherrick",
+            "repo": "AndyTV",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "manusoft/IPTV-Link-Validator",
+          "description": "IPTV API Link Validator in WinUI3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-19T09:02:09Z",
+            "owner": "manusoft",
+            "repo": "IPTV-Link-Validator",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPTV Controller Pro",
+          "description": "A high-performance, cross-platform IPTV browser built with Python and the MPV engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-30T19:03:51Z",
+            "owner": "Spikey721",
+            "repo": "Iptv-on-mpv-",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lotus Engine",
+          "description": "A free, open-source desktop IPTV player that supports Digital Rights Management for Media Presentation Description.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-02T07:10:18Z",
+            "owner": "hieu-TQS",
+            "repo": "MediaLedInterface",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cli-tv",
+          "description": "A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-04T18:53:16Z",
+            "owner": "webwurst9000",
+            "repo": "cli-tv",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community IPTV Player",
+          "description": "Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T02:53:46Z",
+            "owner": "orel56000",
+            "repo": "CommunityIPTVPlayer",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Windows"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IPTVnator",
+          "description": "Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:49:10Z",
+            "owner": "4gray",
+            "repo": "iptvnator",
+            "stars": 6803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jellyfin Desktop",
+          "description": "Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T18:26:52Z",
+            "owner": "jellyfin",
+            "repo": "jellyfin-desktop",
+            "stars": 5586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QMPlay2",
+          "description": "A video and audio player which can play most formats and codecs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T19:22:34Z",
+            "owner": "zaps166",
+            "repo": "QMPlay2",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termv",
+          "description": "A terminal IPTV player written in bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-27T13:38:39Z",
+            "owner": "Roshan-R",
+            "repo": "termv",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XPlayer",
+          "description": "Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T06:05:25Z",
+            "owner": "TNT-Likely",
+            "repo": "xplayer",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extreme InfiniTV",
+          "description": "Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:53:28Z",
+            "owner": "infinitel8p",
+            "repo": "Extreme-InfiniTV",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuthoIPTV",
+          "description": "A feature-rich Electron-powered IPTV player designed for desktop users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-02T11:52:13Z",
+            "owner": "glitport",
+            "repo": "AuthoIPTV",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPTV Checker",
+          "description": "Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-26T14:59:59Z",
+            "owner": "kristofferR",
+            "repo": "IPTVChecker",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sbtlTV",
+          "description": "A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T16:02:48Z",
+            "owner": "thesubtleties",
+            "repo": "sbtlTV",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QiTV",
+          "description": "A cross-platform STB, Xtream and IPTV player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T01:54:20Z",
+            "owner": "ozankaraali",
+            "repo": "QiTV",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cli-tv",
+          "description": "A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-04T18:53:16Z",
+            "owner": "webwurst9000",
+            "repo": "cli-tv",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nightmare TV",
+          "description": "libmpv-based IPTV/M3U/Xtream Codes player for macOS (beta) with HDR tone-mapping (BT.2390), 4K HEVC/AV1 hardware decode, and multi-view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T19:53:30Z",
+            "owner": "zeze89",
+            "repo": "nightmare-tv-releases",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community IPTV Player",
+          "description": "Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T02:53:46Z",
+            "owner": "orel56000",
+            "repo": "CommunityIPTVPlayer",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "macOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IPTVnator",
+          "description": "Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:49:10Z",
+            "owner": "4gray",
+            "repo": "iptvnator",
+            "stars": 6803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open TV",
+          "description": "Ultra-fast, simple and powerful cross-platform IPTV app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-14T16:22:05Z",
+            "owner": "Fredolx",
+            "repo": "open-tv",
+            "stars": 3965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hypnotix",
+          "description": "A Free IPTV streaming application with support for live TV, movies and series.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T14:29:01Z",
+            "owner": "linuxmint",
+            "repo": "hypnotix",
+            "stars": 1733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QMPlay2",
+          "description": "A video and audio player which can play most formats and codecs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T19:22:34Z",
+            "owner": "zaps166",
+            "repo": "QMPlay2",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Megacubo",
+          "description": "Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T15:24:07Z",
+            "owner": "EdenwareApps",
+            "repo": "Megacubo",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termv",
+          "description": "A terminal IPTV player written in bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-27T13:38:39Z",
+            "owner": "Roshan-R",
+            "repo": "termv",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreetuxTV",
+          "description": "Internet television and radio player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-18T12:41:02Z",
+            "owner": "freetuxtv",
+            "repo": "freetuxtv",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XPlayer",
+          "description": "Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T06:05:25Z",
+            "owner": "TNT-Likely",
+            "repo": "xplayer",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TVHplayer",
+          "description": "Cross-platform desktop client for TVheadend using vlc as playback engine, featuring EPG, remote (DVR) and local recording.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-11T06:54:31Z",
+            "owner": "mfat",
+            "repo": "tvhplayer",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extreme InfiniTV",
+          "description": "Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:53:28Z",
+            "owner": "infinitel8p",
+            "repo": "Extreme-InfiniTV",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuthoIPTV",
+          "description": "A feature-rich Electron-powered IPTV player designed for desktop users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-02T11:52:13Z",
+            "owner": "glitport",
+            "repo": "AuthoIPTV",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPTV Checker",
+          "description": "Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-26T14:59:59Z",
+            "owner": "kristofferR",
+            "repo": "IPTVChecker",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sbtlTV",
+          "description": "A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T16:02:48Z",
+            "owner": "thesubtleties",
+            "repo": "sbtlTV",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Better-IPTV",
+          "description": "Crossplatform IPTV player written in Rust and Typescript that handles extremely large playlists (150.000+ channels) without breaking a sweat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-10T08:22:21Z",
+            "owner": "mewset",
+            "repo": "better-iptv",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QiTV",
+          "description": "A cross-platform STB, Xtream and IPTV player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T01:54:20Z",
+            "owner": "ozankaraali",
+            "repo": "QiTV",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPTV Desktop",
+          "description": "Watch TV channels on your device via internet from all over the world for free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-03T10:03:25Z",
+            "owner": "0x0is1",
+            "repo": "iptv-desktop",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stream-Recorder",
+          "description": "Flexible IPTV player and recorder with EPG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T16:16:00Z",
+            "owner": "sc44",
+            "repo": "Stream-Recorder",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytermv",
+          "description": "A terminal IPTV player written in python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-02T23:33:06Z",
+            "owner": "Ahmed-Zamouche",
+            "repo": "pytermv",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPTV Controller Pro",
+          "description": "A high-performance, cross-platform IPTV browser built with Python and the MPV engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-30T19:03:51Z",
+            "owner": "Spikey721",
+            "repo": "Iptv-on-mpv-",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cli-tv",
+          "description": "A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-04T18:53:16Z",
+            "owner": "webwurst9000",
+            "repo": "cli-tv",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community IPTV Player",
+          "description": "Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T02:53:46Z",
+            "owner": "orel56000",
+            "repo": "CommunityIPTVPlayer",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Linux"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "M3UAndroid",
+          "description": "Open source streaming player for Android to play favorite channels in zapping mode with media player enhancements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T00:56:25Z",
+            "owner": "oxyroid",
+            "repo": "M3UAndroid",
+            "stars": 1225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreamVault IPTV",
+          "description": "Feature-rich, completely free IPTV player for Android with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-12T18:39:48Z",
+            "owner": "Davidona",
+            "repo": "StreamVault-IPTV",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Megacubo",
+          "description": "Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T15:24:07Z",
+            "owner": "EdenwareApps",
+            "repo": "Megacubo",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zapp",
+          "description": "Modern player specialized on German public broadcast streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-04T16:26:11Z",
+            "owner": "mediathekview",
+            "repo": "zapp",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KanTV",
+          "description": "Online-TV player and study/practise device-AI tech in real scenario with online-TV on Android phone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T13:55:18Z",
+            "owner": "zhouwg",
+            "repo": "kantv",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XPlayer",
+          "description": "Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, favorites, and a companion phone app for remote text input on TV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T06:05:25Z",
+            "owner": "TNT-Likely",
+            "repo": "xplayer",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digilog TV",
+          "description": "A free and open-source TV news app, inspired by Linux Mint's Hypnotix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-03-29T04:49:15Z",
+            "owner": "aldrinzigmundv",
+            "repo": "digilogtv",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extreme InfiniTV",
+          "description": "Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:53:28Z",
+            "owner": "infinitel8p",
+            "repo": "Extreme-InfiniTV",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FireVision IPTV",
+          "description": "Open-source IPTV player for Amazon FireTV devices with channel management and EPG support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-14T21:35:56Z",
+            "owner": "akshaynikhare",
+            "repo": "FireVisionIPTV",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community IPTV Player",
+          "description": "Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T02:53:46Z",
+            "owner": "orel56000",
+            "repo": "CommunityIPTVPlayer",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StreamVault IPTV",
+          "description": "Feature-rich, completely free IPTV player for Android TV with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-12T18:39:48Z",
+            "owner": "Davidona",
+            "repo": "StreamVault-IPTV",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XPlayer",
+          "description": "Free and open-source IPTV/M3U player for Android TV with channel grouping, search, EPG, and a companion phone app for remote text input over the LAN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T06:05:25Z",
+            "owner": "TNT-Likely",
+            "repo": "xplayer",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extreme InfiniTV",
+          "description": "Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:53:28Z",
+            "owner": "infinitel8p",
+            "repo": "Extreme-InfiniTV",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nightmare TV",
+          "description": "libmpv-based IPTV/M3U/Xtream Codes player for Android TV with HDR tone-mapping, Dolby Atmos/DTS-X passthrough, and multi-view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T19:53:30Z",
+            "owner": "zeze89",
+            "repo": "nightmare-tv-releases",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Android TV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nodecast-tv",
+          "description": "A modern, web-based IPTV player featuring Live TV, EPG, Movies (VOD), and Series support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-02T23:10:21Z",
+            "owner": "technomancer702",
+            "repo": "nodecast-tv",
+            "stars": 1458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparkison/m3u-editor",
+          "description": "A full-featured and powerful IPTV editor, including features similar to xteve or threadfin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T17:57:46Z",
+            "owner": "m3ue",
+            "repo": "m3u-editor",
+            "stars": 817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViniPlay",
+          "description": "A powerful, self-hosted IPTV player with a modern web interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-07T11:12:16Z",
+            "owner": "ardoviniandrea",
+            "repo": "ViniPlay",
+            "stars": 554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neTV",
+          "description": "A minimal, self-hosted web interface for IPTV streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-30T22:08:35Z",
+            "owner": "jvdillon",
+            "repo": "netv",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpanishST/xtreamfilter",
+          "description": "A Docker-based Xtream Codes proxy that filters IPTV content (Live TV, Movies, Series) from multiple sources with merged playlists, stream proxying, advanced filtering, Telegram notifications, monitoring and download capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T10:57:15Z",
+            "owner": "SpanishST",
+            "repo": "xtreamfilter",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "akshaynikhare/FireVisionIPTVServer",
+          "description": "Self-hosted IPTV channel management server with admin panel, EPG integration, device pairing, and multi-user support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T16:42:35Z",
+            "owner": "akshaynikhare",
+            "repo": "FireVisionIPTVServer",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Docker"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Free-TV/IPTV",
+          "description": "M3U playlist for free TV channels around the World.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T07:50:29Z",
+            "owner": "Free-TV",
+            "repo": "IPTV",
+            "stars": 19798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-zhuiju-free",
+          "description": "A curated list of free, ad-free Chinese streaming resources, including online video sites, video apps, TVBox/movie-warehouse configuration URLs, IPTV subscriptions, subtitle resources, and magnet/BT search tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T01:37:48Z",
+            "owner": "laoma2053",
+            "repo": "awesome-zhuiju-free",
+            "stars": 5663
+          }
+        }
+      ],
+      "title": "Providers"
+    },
+    {
+      "description": "A list of useful sources containing information about TV channels.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fanmingming/live",
+          "description": "Logo library of mainly Chinese TV channels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:09:44Z",
+            "owner": "fanmingming",
+            "repo": "live",
+            "stars": 28338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Picons",
+          "description": "Collection of TV channel logos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T01:20:53Z",
+            "owner": "picons",
+            "repo": "picons",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iptv-pro/iptv-pro.github.io",
+          "description": "Logos of Asian TV channels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-04-21T22:00:11Z",
+            "owner": "iptv-pro",
+            "repo": "iptv-pro.github.io",
+            "stars": 286
+          }
+        }
+      ],
+      "title": "Channel Datasets"
+    },
+    {
+      "description": "Libraries and frameworks for working with IPTV data",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xTeVe",
+          "description": "M3U Proxy for Plex DVR and Emby Live TV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-04T17:43:46Z",
+            "owner": "xteve-project",
+            "repo": "xTeVe",
+            "stars": 2260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threadfin",
+          "description": "M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-03T15:28:35Z",
+            "owner": "Threadfin",
+            "repo": "Threadfin",
+            "stars": 1684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flybird-downloader",
+          "description": "M3U8 downloader and IPTV checker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-20T01:03:18Z",
+            "owner": "youwen21",
+            "repo": "flybird-downloader",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hls-restream-proxy",
+          "description": "HLS reverse proxy that injects custom headers and rewrites m3u8 playlists for Jellyfin/Emby/Plex Live TV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T21:57:03Z",
+            "owner": "pcruz1905",
+            "repo": "hls-restream-proxy",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPTV M3U Filter",
+          "description": "A script to filter IPTV m3u playlists according to customized criteria.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T01:30:44Z",
+            "owner": "huxuan",
+            "repo": "iptvtools",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M3Unator",
+          "description": "Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-30T21:43:21Z",
+            "owner": "hasanbeder",
+            "repo": "M3Unator",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weekend-project-space/web-tv",
+          "description": "IPTV player with support for M3U playlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-13T09:14:57Z",
+            "owner": "weekend-project-space",
+            "repo": "web-tv",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HLS Proxy Worker",
+          "description": "A Cloudflare Worker that helps you fetch and rewrite HLS (.m3u8) playlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-04T19:10:17Z",
+            "owner": "MHSanaei",
+            "repo": "HLS-Proxy-Worker",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPTV Stream Checker",
+          "description": "Command-line tool designed to check the status and capture screenshots of channels in an IPTV M3U8 playlist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-04T23:20:44Z",
+            "owner": "kristofferR",
+            "repo": "IPTVChecker-Python",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "davidclaeysquinones/epg-info-docker",
+          "description": "Docker container image for iptv-org/epg.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T09:33:37Z",
+            "owner": "davidclaeysquinones",
+            "repo": "epg-info-docker",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nova Core",
+          "description": "Single-binary DVB-S/S2/T/T2/C to IP streaming headend (HTTP-TS, UDP, M3U) with a web UI and EPG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-07-14T14:14:24Z",
+            "owner": "novaheadend",
+            "repo": "nova-core-releases",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Programming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:52.504Z",
+    "original_repository": "iptv-org/awesome-iptv",
+    "original_repository_sha": "f2807be207e8cbcdc00128a946043586b81988cd",
+    "enhanced_repository": "enhansome/enhansome-iptv",
+    "enhanced_repository_description": null,
+    "title": "Awesome IPTV with stars"
+  }
+}
