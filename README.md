@@ -63,28 +63,28 @@ Applications with support of IPTV streams.
 
 #### Windows
 
-* [MPC-HC](https://github.com/clsid2/mpc-hc) ⭐ 15,448 | 🐛 16 | 🌐 C++ | 📅 2026-08-13 - Free and open-source video and audio player for Windows.
-* [IPTVnator](https://github.com/4gray/iptvnator) ⭐ 6,808 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-13 - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
-* [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) ⭐ 5,592 | 🐛 6 | 🌐 C++ | 📅 2026-08-13 - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
-* [Open TV](https://github.com/Fredolx/open-tv) ⭐ 3,967 | 🐛 110 | 🌐 Rust | 📅 2026-06-14 - Ultra-fast, simple and powerful cross-platform IPTV app.
+* [MPC-HC](https://github.com/clsid2/mpc-hc) ⭐ 15,460 | 🐛 15 | 🌐 C++ | 📅 2026-08-14 - Free and open-source video and audio player for Windows.
+* [IPTVnator](https://github.com/4gray/iptvnator) ⭐ 6,813 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-13 - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
+* [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) ⭐ 5,600 | 🐛 358 | 🌐 C++ | 📅 2026-08-14 - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+* [Open TV](https://github.com/Fredolx/open-tv) ⭐ 3,971 | 🐛 110 | 🌐 Rust | 📅 2026-06-14 - Ultra-fast, simple and powerful cross-platform IPTV app.
 * [QMPlay2](https://github.com/zaps166/QMPlay2) ⭐ 1,170 | 🐛 133 | 🌐 C++ | 📅 2026-08-10 - A video and audio player which can play most formats and codecs.
 * [termv](https://github.com/Roshan-R/termv) ⭐ 299 | 🐛 7 | 🌐 Shell | 📅 2026-05-27 - A terminal IPTV player written in bash.
-* [ynoTV](https://github.com/tbeezy/ynotv) ⭐ 243 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-12 - A feature-rich, open source IPTV player for Windows built on [Tauri v2](https://tauri.app/) and [mpv](https://mpv.io/).
+* [ynoTV](https://github.com/tbeezy/ynotv) ⭐ 243 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-12 - A feature-rich, open source IPTV player for Windows built on [Tauri v2](https://tauri.app/) and [mpv](https://mpv.io/).
 * [Xtream IPTV Player by MY-1](https://github.com/Cyogenus/XTREME-IPTV-PLAYER-by-MY-1) ⭐ 161 | 🐛 8 | 🌐 Python | 📅 2026-07-08 - An IPTV player that supports M3U\_plus playlists and the Xtream Codes API, allowing users to manage and play IPTV channels, movies, and TV series.
-* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 149 | 🐛 5 | 🌐 Dart | 📅 2026-08-13 - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
+* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 150 | 🐛 4 | 🌐 Dart | 📅 2026-08-14 - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
 * [MAC & Stalker IPTV Player by MY-1](https://github.com/Cyogenus/IPTV-MAC-STALKER-PLAYER-BY-MY-1) ⭐ 125 | 🐛 0 | 🌐 Python | 📅 2026-07-08 - Stream Live TV, VOD, and Series from MAC-based and Stalker IPTV portals directly on Windows with powerful extra features.
-* [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) ⭐ 97 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
+* [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) ⭐ 98 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-14 - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
 * [AuthoIPTV](https://github.com/glitport/AuthoIPTV) ⭐ 81 | 🐛 9 | 📅 2025-06-02 - A feature-rich Electron-powered IPTV player designed for desktop users.
-* [IPTV Checker](https://github.com/kristofferR/IPTVChecker) ⭐ 71 | 🐛 12 | 🌐 Rust | 📅 2026-07-26 - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
+* [IPTV Checker](https://github.com/kristofferR/IPTVChecker) ⭐ 74 | 🐛 12 | 🌐 Rust | 📅 2026-08-14 - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
 * [sbtlTV](https://github.com/thesubtleties/sbtlTV) ⭐ 65 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-24 - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 * [QiTV](https://github.com/ozankaraali/QiTV) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2026-03-02 - A cross-platform STB, Xtream and IPTV player.
 * [Stream-Recorder](https://github.com/sc44/Stream-Recorder) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-06-17 - Flexible IPTV player and recorder with EPG.
-* [AndyTV](https://github.com/aherrick/AndyTV) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2026-08-13 - A lightweight, open-source IPTV player for Windows.
+* [AndyTV](https://github.com/aherrick/AndyTV) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2026-08-14 - A lightweight, open-source IPTV player for Windows.
 * [manusoft/IPTV-Link-Validator](https://github.com/manusoft/IPTV-Link-Validator) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2023-08-19 - IPTV API Link Validator in WinUI3.
 * [IPTV Controller Pro](https://github.com/tanmay1117/Iptv-on-mpv-) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-12-30 - A high-performance, cross-platform IPTV browser built with Python and the MPV engine.
 * [Lotus Engine](https://github.com/hieu-TQS/MediaLedInterface) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2026-05-02 - A free, open-source desktop IPTV player that supports Digital Rights Management for Media Presentation Description.
+* [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 * [cli-tv](https://github.com/webwurst9000/cli-tv/) ⭐ 1 | 🐛 1 | 🌐 Rust | 📅 2026-07-04 - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
-* [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 * [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
 * [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
 * [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
@@ -101,19 +101,19 @@ Applications with support of IPTV streams.
 
 #### macOS
 
-* [IPTVnator](https://github.com/4gray/iptvnator) ⭐ 6,808 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-13 - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
-* [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) ⭐ 5,592 | 🐛 6 | 🌐 C++ | 📅 2026-08-13 - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+* [IPTVnator](https://github.com/4gray/iptvnator) ⭐ 6,813 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-13 - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
+* [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) ⭐ 5,600 | 🐛 358 | 🌐 C++ | 📅 2026-08-14 - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 * [QMPlay2](https://github.com/zaps166/QMPlay2) ⭐ 1,170 | 🐛 133 | 🌐 C++ | 📅 2026-08-10 - A video and audio player which can play most formats and codecs.
 * [termv](https://github.com/Roshan-R/termv) ⭐ 299 | 🐛 7 | 🌐 Shell | 📅 2026-05-27 - A terminal IPTV player written in bash.
-* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 149 | 🐛 5 | 🌐 Dart | 📅 2026-08-13 - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
-* [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) ⭐ 97 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
+* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 150 | 🐛 4 | 🌐 Dart | 📅 2026-08-14 - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
+* [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) ⭐ 98 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-14 - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
 * [AuthoIPTV](https://github.com/glitport/AuthoIPTV) ⭐ 81 | 🐛 9 | 📅 2025-06-02 - A feature-rich Electron-powered IPTV player designed for desktop users.
-* [IPTV Checker](https://github.com/kristofferR/IPTVChecker) ⭐ 71 | 🐛 12 | 🌐 Rust | 📅 2026-07-26 - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
+* [IPTV Checker](https://github.com/kristofferR/IPTVChecker) ⭐ 74 | 🐛 12 | 🌐 Rust | 📅 2026-08-14 - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
 * [sbtlTV](https://github.com/thesubtleties/sbtlTV) ⭐ 65 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-24 - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 * [QiTV](https://github.com/ozankaraali/QiTV) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2026-03-02 - A cross-platform STB, Xtream and IPTV player.
+* [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 * [cli-tv](https://github.com/webwurst9000/cli-tv/) ⭐ 1 | 🐛 1 | 🌐 Rust | 📅 2026-07-04 - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
-* [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) ⭐ 0 | 🐛 0 | 📅 2026-08-12 - libmpv-based IPTV/M3U/Xtream Codes player for macOS (beta) with HDR tone-mapping (BT.2390), 4K HEVC/AV1 hardware decode, and multi-view.
-* [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
+* [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) ⭐ 0 | 🐛 0 | 📅 2026-08-14 - libmpv-based IPTV/M3U/Xtream Codes player for macOS (beta) with HDR tone-mapping (BT.2390), 4K HEVC/AV1 hardware decode, and multi-view.
 * [VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html) - Free and open-source portable cross-platform media player.
 * [IINA](https://iina.io/) - Modern media player for macOS.
 * [Elmedia Video Player](https://apps.apple.com/us/app/elmedia-video-player/id1044549675?platform=mac) - Free media player for Mac OS.
@@ -133,27 +133,27 @@ Applications with support of IPTV streams.
 
 #### Linux
 
-* [IPTVnator](https://github.com/4gray/iptvnator) ⭐ 6,808 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-13 - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
-* [Open TV](https://github.com/Fredolx/open-tv) ⭐ 3,967 | 🐛 110 | 🌐 Rust | 📅 2026-06-14 - Ultra-fast, simple and powerful cross-platform IPTV app.
-* [Hypnotix](https://github.com/linuxmint/hypnotix) ⭐ 1,736 | 🐛 191 | 🌐 Python | 📅 2026-02-11 - A Free IPTV streaming application with support for live TV, movies and series.
+* [IPTVnator](https://github.com/4gray/iptvnator) ⭐ 6,813 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-13 - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
+* [Open TV](https://github.com/Fredolx/open-tv) ⭐ 3,971 | 🐛 110 | 🌐 Rust | 📅 2026-06-14 - Ultra-fast, simple and powerful cross-platform IPTV app.
+* [Hypnotix](https://github.com/linuxmint/hypnotix) ⭐ 1,742 | 🐛 191 | 🌐 Python | 📅 2026-02-11 - A Free IPTV streaming application with support for live TV, movies and series.
 * [QMPlay2](https://github.com/zaps166/QMPlay2) ⭐ 1,170 | 🐛 133 | 🌐 C++ | 📅 2026-08-10 - A video and audio player which can play most formats and codecs.
-* [Megacubo](https://github.com/EdenwareApps/Megacubo) ⭐ 586 | 🐛 17 | 🌐 JavaScript | 📅 2026-07-25 - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc.
+* [Megacubo](https://github.com/EdenwareApps/Megacubo) ⭐ 587 | 🐛 17 | 🌐 JavaScript | 📅 2026-07-25 - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc.
 * [termv](https://github.com/Roshan-R/termv) ⭐ 299 | 🐛 7 | 🌐 Shell | 📅 2026-05-27 - A terminal IPTV player written in bash.
 * [FreetuxTV](https://github.com/freetuxtv/freetuxtv) ⭐ 156 | 🐛 101 | 🌐 C | 📅 2026-03-18 - Internet television and radio player.
-* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 149 | 🐛 5 | 🌐 Dart | 📅 2026-08-13 - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
+* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 150 | 🐛 4 | 🌐 Dart | 📅 2026-08-14 - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
 * [TVHplayer](https://github.com/mfat/tvhplayer) ⭐ 103 | 🐛 15 | 🌐 Python | 📅 2025-07-11 - Cross-platform desktop client for TVheadend using vlc as playback engine, featuring EPG, remote (DVR) and local recording.
-* [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) ⭐ 97 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
+* [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) ⭐ 98 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-14 - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
 * [AuthoIPTV](https://github.com/glitport/AuthoIPTV) ⭐ 81 | 🐛 9 | 📅 2025-06-02 - A feature-rich Electron-powered IPTV player designed for desktop users.
-* [IPTV Checker](https://github.com/kristofferR/IPTVChecker) ⭐ 71 | 🐛 12 | 🌐 Rust | 📅 2026-07-26 - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
+* [IPTV Checker](https://github.com/kristofferR/IPTVChecker) ⭐ 74 | 🐛 12 | 🌐 Rust | 📅 2026-08-14 - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
 * [sbtlTV](https://github.com/thesubtleties/sbtlTV) ⭐ 65 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-24 - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
-* [Better-IPTV](https://github.com/mewset/better-iptv) ⭐ 44 | 🐛 4 | 🌐 TypeScript | 📅 2026-03-10 - Crossplatform IPTV player written in Rust and Typescript that handles extremely large playlists (150.000+ channels) without breaking a sweat.
+* [Better-IPTV](https://github.com/mewset/better-iptv) ⭐ 45 | 🐛 4 | 🌐 TypeScript | 📅 2026-03-10 - Crossplatform IPTV player written in Rust and Typescript that handles extremely large playlists (150.000+ channels) without breaking a sweat.
 * [QiTV](https://github.com/ozankaraali/QiTV) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2026-03-02 - A cross-platform STB, Xtream and IPTV player.
 * [IPTV Desktop](https://github.com/0x0is1/iptv-desktop) ⭐ 32 | 🐛 0 | 🌐 C++ | 📅 2024-03-03 - Watch TV channels on your device via internet from all over the world for free.
 * [Stream-Recorder](https://github.com/sc44/Stream-Recorder) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-06-17 - Flexible IPTV player and recorder with EPG.
 * [pytermv](https://github.com/Ahmed-Zamouche/pytermv) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-02-02 - A terminal IPTV player written in python.
 * [IPTV Controller Pro](https://github.com/tanmay1117/Iptv-on-mpv-) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-12-30 - A high-performance, cross-platform IPTV browser built with Python and the MPV engine.
+* [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 * [cli-tv](https://github.com/webwurst9000/cli-tv/) ⭐ 1 | 🐛 1 | 🌐 Rust | 📅 2026-07-04 - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
-* [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 * [VLC for Linux](https://www.videolan.org/vlc/#download) - Free and open-source portable cross-platform media player.
 * [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
 * [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
@@ -162,16 +162,16 @@ Applications with support of IPTV streams.
 
 #### Android
 
-* [M3UAndroid](https://github.com/realOxy/M3UAndroid) ⭐ 1,226 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-12 - Open source streaming player for Android to play favorite channels in zapping mode with media player enhancements.
-* [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) ⭐ 603 | 🐛 71 | 🌐 Kotlin | 📅 2026-07-12 – Feature-rich, completely free IPTV player for Android with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
-* [Megacubo](https://github.com/EdenwareApps/Megacubo) ⭐ 586 | 🐛 17 | 🌐 JavaScript | 📅 2026-07-25 - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc.
+* [M3UAndroid](https://github.com/realOxy/M3UAndroid) ⭐ 1,227 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-12 - Open source streaming player for Android to play favorite channels in zapping mode with media player enhancements.
+* [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) ⭐ 607 | 🐛 71 | 🌐 Kotlin | 📅 2026-07-12 – Feature-rich, completely free IPTV player for Android with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
+* [Megacubo](https://github.com/EdenwareApps/Megacubo) ⭐ 587 | 🐛 17 | 🌐 JavaScript | 📅 2026-07-25 - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc.
 * [Zapp](https://github.com/mediathekview/zapp) ⭐ 252 | 🐛 73 | 🌐 Kotlin | 📅 2026-02-04 - Modern player specialized on German public broadcast streams.
 * [KanTV](https://github.com/kantv-ai/kantv/) ⭐ 196 | 🐛 0 | 🌐 Java | 📅 2026-07-28 - Online-TV player and study/practise device-AI tech in real scenario with online-TV on Android phone.
-* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 149 | 🐛 5 | 🌐 Dart | 📅 2026-08-13 - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, favorites, and a companion phone app for remote text input on TV.
+* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 150 | 🐛 4 | 🌐 Dart | 📅 2026-08-14 - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, favorites, and a companion phone app for remote text input on TV.
 * [Digilog TV](https://github.com/aldrinzigmundv/digilogtv) ⭐ 138 | 🐛 0 | 🌐 Dart | 📅 2026-03-29 - A free and open-source TV news app, inspired by Linux Mint's Hypnotix.
-* [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) ⭐ 97 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
+* [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) ⭐ 98 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-14 - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
 * [FireVision IPTV](https://github.com/akshaynikhare/FireVisionIPTV) ⭐ 30 | 🐛 0 | 🌐 Kotlin | 📅 2026-07-14 - Open-source IPTV player for Amazon FireTV devices with channel management and EPG support.
-* [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
+* [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 * [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
 * [KgTv Player](https://play.google.com/store/apps/details?id=tk.kgtv) - IPTV player with support quality change, search, export and modification of channels.
 * [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
@@ -232,7 +232,7 @@ Applications with support of IPTV streams.
 * [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=iphone) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 * [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=iphone) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 * [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=iphone) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
-* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 149 | 🐛 5 | 🌐 Dart | 📅 2026-08-13 - Free and open-source IPTV/M3U player for iPhone with channel grouping, search, EPG, and favorites.
+* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 150 | 🐛 4 | 🌐 Dart | 📅 2026-08-14 - Free and open-source IPTV/M3U player for iPhone with channel grouping, search, EPG, and favorites.
 * [Pulsar IPTV](https://apps.apple.com/es/app/pulsar-iptv/id6772932662?platform=iphone) - Native IPTV player for iPhone, iPad and Apple TV with M3U and Xtream Codes support, clean UI and lifetime purchase option.
 * [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=iphone) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across iPhone, iPad, Mac, Apple TV, and Apple Vision Pro.
 
@@ -261,7 +261,7 @@ Applications with support of IPTV streams.
 * [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=ipad) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 * [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=ipad) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 * [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=ipad) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
-* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 149 | 🐛 5 | 🌐 Dart | 📅 2026-08-13 - Free and open-source IPTV/M3U player for iPad with channel grouping, search, EPG, and favorites.
+* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 150 | 🐛 4 | 🌐 Dart | 📅 2026-08-14 - Free and open-source IPTV/M3U player for iPad with channel grouping, search, EPG, and favorites.
 * [Pulsar IPTV](https://apps.apple.com/es/app/pulsar-iptv/id6772932662?platform=ipad) - Native IPTV player for iPhone, iPad and Apple TV with M3U and Xtream Codes support, clean UI and lifetime purchase option.
 * [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=ipad) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across iPad, iPhone, Mac, Apple TV, and Apple Vision Pro.
 
@@ -299,10 +299,10 @@ Applications with support of IPTV streams.
 
 #### Android TV
 
-* [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) ⭐ 603 | 🐛 71 | 🌐 Kotlin | 📅 2026-07-12 – Feature-rich, completely free IPTV player for Android TV with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
-* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 149 | 🐛 5 | 🌐 Dart | 📅 2026-08-13 - Free and open-source IPTV/M3U player for Android TV with channel grouping, search, EPG, and a companion phone app for remote text input over the LAN.
-* [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) ⭐ 97 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-13 - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
-* [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) ⭐ 0 | 🐛 0 | 📅 2026-08-12 - libmpv-based IPTV/M3U/Xtream Codes player for Android TV with HDR tone-mapping, Dolby Atmos/DTS-X passthrough, and multi-view.
+* [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) ⭐ 607 | 🐛 71 | 🌐 Kotlin | 📅 2026-07-12 – Feature-rich, completely free IPTV player for Android TV with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
+* [XPlayer](https://github.com/TNT-Likely/xplayer) ⭐ 150 | 🐛 4 | 🌐 Dart | 📅 2026-08-14 - Free and open-source IPTV/M3U player for Android TV with channel grouping, search, EPG, and a companion phone app for remote text input over the LAN.
+* [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) ⭐ 98 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-14 - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
+* [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) ⭐ 0 | 🐛 0 | 📅 2026-08-14 - libmpv-based IPTV/M3U/Xtream Codes player for Android TV with HDR tone-mapping, Dolby Atmos/DTS-X passthrough, and multi-view.
 * [Jellyfin for Android TV](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv\&hl=en_GB) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 * [M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv) - Modern M3U IPTV Player for Android & Android TV.
 * [PlayOnTV](https://playontv.itch.io/playontv-android-beta) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
@@ -341,8 +341,8 @@ Applications with support of IPTV streams.
 
 #### Docker
 
-* [nodecast-tv](https://github.com/technomancer702/nodecast-tv) ⭐ 1,457 | 🐛 55 | 🌐 JavaScript | 📅 2026-03-02 - A modern, web-based IPTV player featuring Live TV, EPG, Movies (VOD), and Series support.
-* [sparkison/m3u-editor](https://github.com/sparkison/m3u-editor) ⭐ 817 | 🐛 29 | 🌐 PHP | 📅 2026-08-13 - A full-featured and powerful IPTV editor, including features similar to xteve or threadfin.
+* [nodecast-tv](https://github.com/technomancer702/nodecast-tv) ⭐ 1,458 | 🐛 55 | 🌐 JavaScript | 📅 2026-03-02 - A modern, web-based IPTV player featuring Live TV, EPG, Movies (VOD), and Series support.
+* [sparkison/m3u-editor](https://github.com/sparkison/m3u-editor) ⭐ 818 | 🐛 33 | 🌐 PHP | 📅 2026-08-14 - A full-featured and powerful IPTV editor, including features similar to xteve or threadfin.
 * [ViniPlay](https://github.com/ardoviniandrea/ViniPlay) ⭐ 554 | 🐛 35 | 🌐 JavaScript | 📅 2026-01-07 - A powerful, self-hosted IPTV player with a modern web interface.
 * [neTV](https://github.com/jvdillon/netv) ⭐ 504 | 🐛 15 | 🌐 Python | 📅 2026-04-30 - A minimal, self-hosted web interface for IPTV streams.
 * [SpanishST/xtreamfilter](https://github.com/SpanishST/xtreamfilter) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-08-07 - A Docker-based Xtream Codes proxy that filters IPTV content (Live TV, Movies, Series) from multiple sources with merged playlists, stream proxying, advanced filtering, Telegram notifications, monitoring and download capabilities.
@@ -351,8 +351,8 @@ Applications with support of IPTV streams.
 
 ## Providers
 
-* [Free-TV/IPTV](https://github.com/Free-TV/IPTV) ⭐ 19,810 | 🐛 205 | 🌐 Python | 📅 2026-07-07 - M3U playlist for free TV channels around the World.
-* [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) ⭐ 5,721 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-13 - A curated list of free, ad-free Chinese streaming resources, including online video sites, video apps, TVBox/movie-warehouse configuration URLs, IPTV subscriptions, subtitle resources, and magnet/BT search tools.
+* [Free-TV/IPTV](https://github.com/Free-TV/IPTV) ⭐ 19,829 | 🐛 182 | 🌐 Python | 📅 2026-08-14 - M3U playlist for free TV channels around the World.
+* [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) ⭐ 5,775 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-14 - A curated list of free, ad-free Chinese streaming resources, including online video sites, video apps, TVBox/movie-warehouse configuration URLs, IPTV subscriptions, subtitle resources, and magnet/BT search tools.
 * [WatchIPTV](https://watchiptv.xyz) - Watch IPTV-org streams directly from your browser.
 * [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
 * [IPTV Player](https://iptv-web.app/) - Open-source Flutter app that allows you to watch publicly accessible streams from within your browser.
@@ -396,8 +396,8 @@ Applications with support of IPTV streams.
 
 A list of useful sources containing information about TV channels.
 
-* [fanmingming/live](https://github.com/fanmingming/live) ⭐ 28,338 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-13 - Logo library of mainly Chinese TV channels.
-* [Picons](https://github.com/picons/picons) ⭐ 300 | 🐛 2 | 🌐 Shell | 📅 2026-08-13 - Collection of TV channel logos.
+* [fanmingming/live](https://github.com/fanmingming/live) ⭐ 28,346 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-14 - Logo library of mainly Chinese TV channels.
+* [Picons](https://github.com/picons/picons) ⭐ 301 | 🐛 2 | 🌐 Shell | 📅 2026-08-14 - Collection of TV channel logos.
 * [iptv-pro/iptv-pro.github.io](https://github.com/iptv-pro/iptv-pro.github.io) ⭐ 286 | 🐛 6 | 🌐 HTML | 📅 2025-04-21 - Logos of Asian TV channels.
 * [LyngSat](https://www.lyngsat.com/) - A database of satellite TV channels containing the information necessary to capture a signal.
 * [LyngSat Logo](https://www.lyngsat-logo.com/) - Collection of TV channel logos.
@@ -436,16 +436,16 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 Libraries and frameworks for working with IPTV data
 
 * [xTeVe](https://github.com/xteve-project/xTeVe) ⭐ 2,258 | 🐛 202 | 🌐 Go | 📅 2024-08-04 - M3U Proxy for Plex DVR and Emby Live TV.
-* [Threadfin](https://github.com/Threadfin/Threadfin) ⭐ 1,686 | 🐛 3 | 🌐 Go | 📅 2025-10-03 - M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe.
+* [Threadfin](https://github.com/Threadfin/Threadfin) ⭐ 1,687 | 🐛 3 | 🌐 Go | 📅 2025-10-03 - M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe.
 * [flybird-downloader](https://github.com/youwen21/flybird-downloader) ⭐ 481 | 🐛 6 | 📅 2025-01-20 - M3U8 downloader and IPTV checker.
 * [hls-restream-proxy](https://github.com/pcruz1905/hls-restream-proxy) ⭐ 240 | 🐛 3 | 🌐 Python | 📅 2026-04-27 - HLS reverse proxy that injects custom headers and rewrites m3u8 playlists for Jellyfin/Emby/Plex Live TV.
 * [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) ⭐ 236 | 🐛 27 | 🌐 Python | 📅 2026-08-10 - A script to filter IPTV m3u playlists according to customized criteria.
-* [M3Unator](https://github.com/hasanbeder/M3Unator) ⭐ 104 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-30 - Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.
+* [M3Unator](https://github.com/hasanbeder/M3Unator) ⭐ 105 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-30 - Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.
 * [weekend-project-space/web-tv](https://github.com/weekend-project-space/web-tv) ⭐ 100 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-13 - IPTV player with support for M3U playlists.
 * [HLS Proxy Worker](https://github.com/MHSanaei/HLS-Proxy-Worker) ⭐ 99 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-04 - A Cloudflare Worker that helps you fetch and rewrite HLS (.m3u8) playlists.
 * [IPTV Stream Checker](https://github.com/NewsGuyTor/IPTVChecker) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-04-04 - Command-line tool designed to check the status and capture screenshots of channels in an IPTV M3U8 playlist.
-* [davidclaeysquinones/epg-info-docker](https://github.com/davidclaeysquinones/epg-info-docker) ⭐ 20 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-05 - Docker container image for [iptv-org/epg](https://github.com/iptv-org/epg) ⭐ 3,206 | 🐛 33 | 🌐 HTML | 📅 2026-08-13.
-* [Nova Core](https://github.com/novaheadend/nova-core-releases) ⭐ 8 | 🐛 2 | 🌐 Dockerfile | 📅 2026-08-13 - Single-binary DVB-S/S2/T/T2/C to IP streaming headend (HTTP-TS, UDP, M3U) with a web UI and EPG.
+* [davidclaeysquinones/epg-info-docker](https://github.com/davidclaeysquinones/epg-info-docker) ⭐ 20 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-05 - Docker container image for [iptv-org/epg](https://github.com/iptv-org/epg) ⭐ 3,209 | 🐛 34 | 🌐 HTML | 📅 2026-08-13.
+* [Nova Core](https://github.com/novaheadend/nova-core-releases) ⭐ 9 | 🐛 2 | 🌐 Dockerfile | 📅 2026-08-13 - Single-binary DVB-S/S2/T/T2/C to IP streaming headend (HTTP-TS, UDP, M3U) with a web UI and EPG.
 * [@iptv/xmltv](https://www.npmjs.com/package/@iptv/xmltv) - Fast xmltv parser and generator for Node and browsers.
 * [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js.
 * [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
@@ -469,4 +469,4 @@ Just please follow 4 simple rules:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
