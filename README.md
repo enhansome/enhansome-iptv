@@ -4,47 +4,47 @@ A curated list of resources related to IPTV.
 
 ## Contents
 
-* 📡 [Providers](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [IPTV](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders+label%3AIPTV) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [EPG](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders+label%3AEPG) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-* 📺 [Players](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Web](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWeb) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Windows](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWindows) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [macOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AmacOS) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ALinux) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Android](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AAndroid) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [iPhone](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AiPhone) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [iPad](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AiPad) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Apple Watch](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Apple+Watch%22) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Apple TV](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Apple+TV%22) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Apple Vision Pro](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Apple+Vision+Pro%22) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Android TV](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+TV%22) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [webOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AwebOS) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Roku](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ARoku) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Xbox](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AXBox) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Google Chrome](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Google+Chrome%22) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Docker](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ADocker) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Node.js](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ANode.js) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-* 🧰 [Tools](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Web](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AWeb) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Windows](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AWindows) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [macOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AmacOS) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ALinux) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Cloudflare](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ACloudflare) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Google Chrome](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3A%22Google+Chrome%22) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Tampermonkey](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ATampermonkey) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Violentmonkey](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AViolentmonkey) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Docker](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ADocker) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Python](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3APython) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Node.js](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ANode.js) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-  * [Go](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AGo) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
-* 🗄️ [Datasets](https://github.com/iptv-org/awesome-iptv/discussions/categories/datasets?discussions_q=is%3Aopen+category%3ADatasets) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15
+* 📡 [Providers](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [IPTV](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders+label%3AIPTV) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [EPG](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders+label%3AEPG) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+* 📺 [Players](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Web](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWeb) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Windows](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWindows) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [macOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AmacOS) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ALinux) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Android](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AAndroid) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [iPhone](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AiPhone) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [iPad](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AiPad) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Apple Watch](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Apple+Watch%22) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Apple TV](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Apple+TV%22) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Apple Vision Pro](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Apple+Vision+Pro%22) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Android TV](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+TV%22) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [webOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AwebOS) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Roku](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ARoku) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Xbox](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AXBox) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Google Chrome](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Google+Chrome%22) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Docker](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ADocker) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Node.js](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ANode.js) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+* 🧰 [Tools](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Web](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AWeb) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Windows](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AWindows) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [macOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AmacOS) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ALinux) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Cloudflare](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ACloudflare) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Google Chrome](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3A%22Google+Chrome%22) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Tampermonkey](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ATampermonkey) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Violentmonkey](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AViolentmonkey) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Docker](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ADocker) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Python](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3APython) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Node.js](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ANode.js) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+  * [Go](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AGo) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
+* 🗄️ [Datasets](https://github.com/iptv-org/awesome-iptv/discussions/categories/datasets?discussions_q=is%3Aopen+category%3ADatasets) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15
 * 📝 [Contribution](#contribution)
 * © [License](#license)
 
 ## Contribution
 
-To add a new link to the list, simply fill out this [form](https://github.com/iptv-org/awesome-iptv/issues/new?template=new_link.yml) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15. Once reviewed, it will be published in the appropriate category in the [Discussions](https://github.com/iptv-org/awesome-iptv/discussions) ⭐ 12,266 | 🐛 0 | 📅 2026-08-15 tab.
+To add a new link to the list, simply fill out this [form](https://github.com/iptv-org/awesome-iptv/issues/new?template=new_link.yml) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15. Once reviewed, it will be published in the appropriate category in the [Discussions](https://github.com/iptv-org/awesome-iptv/discussions) ⭐ 12,273 | 🐛 1 | 📅 2026-08-15 tab.
 
 ## License
 
@@ -52,4 +52,4 @@ To add a new link to the list, simply fill out this [form](https://github.com/ip
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
