@@ -1,7 +1,542 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📡 Providers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IPTV",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EPG",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 208640453,
+            "language": null,
+            "last_commit": "2026-08-22T21:39:06Z",
+            "owner": "iptv-org",
+            "repo": "awesome-iptv",
+            "stars": 12301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📺 Players",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Web",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Windows",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "macOS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iPhone",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iPad",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apple Watch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apple TV",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apple Vision Pro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android TV",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webOS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Roku",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xbox",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Google Chrome",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node.js",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 208640453,
+            "language": null,
+            "last_commit": "2026-08-22T21:39:06Z",
+            "owner": "iptv-org",
+            "repo": "awesome-iptv",
+            "stars": 12301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🧰 Tools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Web",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Windows",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "macOS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudflare",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Google Chrome",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tampermonkey",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Violentmonkey",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node.js",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208640453,
+                "language": null,
+                "last_commit": "2026-08-22T21:39:06Z",
+                "owner": "iptv-org",
+                "repo": "awesome-iptv",
+                "stars": 12301
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 208640453,
+            "language": null,
+            "last_commit": "2026-08-22T21:39:06Z",
+            "owner": "iptv-org",
+            "repo": "awesome-iptv",
+            "stars": 12301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🗄️ Datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208640453,
+            "language": null,
+            "last_commit": "2026-08-22T21:39:06Z",
+            "owner": "iptv-org",
+            "repo": "awesome-iptv",
+            "stars": 12301
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:41:52.911Z",
+    "last_updated": "2026-08-24T13:52:04.958Z",
     "original_repository": "iptv-org/awesome-iptv",
     "original_repository_id": 208640453,
     "original_repository_sha": "c00d3d6981cda384152440ff5c096dc9a03051d1",
