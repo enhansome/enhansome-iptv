@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-23T00:43:27.896Z",
+    "last_updated": "2026-10-24T00:47:02.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to IPTV",
@@ -13,7 +13,7 @@
       "open_issues": 0,
       "owner": "iptv-org",
       "repo": "awesome-iptv",
-      "stars": 12728,
+      "stars": 12731,
       "topics": [
         "epg",
         "iptv",
