@@ -4,6 +4,7 @@ A curated list of resources related to IPTV.
 
 ## Contents
 
+* 🔌 [Devices](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices)
 * 📡 [Providers](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders)
   * [IPTV](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders+label%3AIPTV)
   * [EPG](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders+label%3AEPG)
@@ -62,4 +63,4 @@ Once reviewed, the link will be published in the appropriate category in the [Di
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
