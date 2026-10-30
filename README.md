@@ -18,16 +18,19 @@ A curated list of resources related to IPTV.
   * [Prospero OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Prospero+OS%222)
   * [Nintendo Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Nintendo+Horizon+OS%22)
   * [Meta Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Meta+Horizon+OS%22)
+  * [PICO OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22PICO+OS%22)
+  * [Android XR](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Android+XR%22)
   * [visionOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3AvisionOS)
+  * [Wear OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Wear+OS%22)
 * 📺 [Players](https://github.com/iptv-org/awesome-iptv/discussions/categories/players)
   * [Web](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWeb)
   * [Windows](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWindows)
   * [macOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AmacOS)
   * [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ALinux)
+  * [ChromeOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AChromeOS)
   * [Android](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AAndroid)
   * [iOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AiOS)
   * [iPadOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AiPadOS)
-  * [watchOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Apple+watchOS)
   * [Android TV](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+TV%22)
   * [tvOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22tvOS)
   * [Tizen OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Tizen+OS%22)
@@ -45,7 +48,11 @@ A curated list of resources related to IPTV.
   * [Prospero OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Prospero+OS%22)
   * [Nintendo Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Nintendo+Horizon+OS%22)
   * [Meta Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Meta+Horizon+OS%22)
-  * [visionOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Apple+visionOS)
+  * [PICO OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22PICO+OS%22)
+  * [Android XR](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+XR%22)
+  * [visionOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22visionOS)
+  * [Wear OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Wear+OS%22)
+  * [Android Automotive OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+Automotive+OS%22)
   * [Google Chrome](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Google+Chrome%22)
   * [Docker](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ADocker)
   * [Python](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3APython)
@@ -85,4 +92,4 @@ Once reviewed, the link will be published in the appropriate category in the [Di
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
