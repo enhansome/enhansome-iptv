@@ -5,8 +5,6 @@ A curated list of resources related to IPTV.
 ## Contents
 
 * 📡 [Providers](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers)
-  * [IPTV](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders+label%3AIPTV)
-  * [EPG](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers?discussions_q=is%3Aopen+category%3AProviders+label%3AEPG)
 * 🔌 [Devices](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices)
   * [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3ALinux)
   * [Android TV](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Android+TV%22)
@@ -50,7 +48,7 @@ A curated list of resources related to IPTV.
   * [Meta Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Meta+Horizon+OS%22)
   * [PICO OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22PICO+OS%22)
   * [Android XR](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+XR%22)
-  * [visionOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22visionOS)
+  * [visionOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AvisionOS)
   * [Wear OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Wear+OS%22)
   * [Android Automotive OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+Automotive+OS%22)
   * [Google Chrome](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Google+Chrome%22)
@@ -92,4 +90,4 @@ Once reviewed, the link will be published in the appropriate category in the [Di
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
