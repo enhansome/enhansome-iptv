@@ -11,6 +11,12 @@ A curated list of resources related to IPTV.
   * [Windows](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWindows)
   * [macOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AmacOS)
   * [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ALinux)
+  * [FreeBSD](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AFreeBSD)
+  * [NetBSD](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ANetBSD)
+  * [OpenBSD](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AOpenBSD)
+  * [Solaris](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=category%3APlayers+label%3ASolaris)
+  * [QNX](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=category%3APlayers+label%3AQNX)
+  * [OS/2](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=category%3APlayers+label%3AOS%2F2)
   * [ChromeOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AChromeOS)
   * [Android](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AAndroid)
   * [iOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AiOS)
@@ -40,7 +46,8 @@ A curated list of resources related to IPTV.
   * [visionOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AvisionOS)
   * [Wear OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Wear+OS%22)
   * [Android Automotive OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+Automotive+OS%22)
-  * [Google Chrome](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Google+Chrome%22)
+  * [Chromium](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AChromium)
+  * [Kodi](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AKodi)
   * [Docker](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ADocker)
   * [Python](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3APython)
   * [Node.js](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ANode.js)
@@ -49,10 +56,10 @@ A curated list of resources related to IPTV.
   * [Windows](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AWindows)
   * [macOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AmacOS)
   * [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ALinux)
-  * [Cloudflare](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ACloudflare)
-  * [Google Chrome](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3A%22Google+Chrome%22)
+  * [Chromium](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AChromium)
   * [Tampermonkey](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ATampermonkey)
   * [Violentmonkey](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AViolentmonkey)
+  * [Cloudflare](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ACloudflare)
   * [Docker](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ADocker)
   * [Python](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3APython)
   * [Node.js](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3ANode.js)
@@ -79,4 +86,4 @@ Once reviewed, the link will be published in the appropriate category in the [Di
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
