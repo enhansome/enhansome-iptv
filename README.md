@@ -38,6 +38,7 @@ A curated list of resources related to IPTV.
   * [WhaleOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWhaleOS)
   * [Xbox OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Xbox+OS%22)
   * [Prospero OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Prospero+OS%22)
+  * [Orbis OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Orbis+OS%22)
   * [Nintendo Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Nintendo+Horizon+OS%22)
   * [SteamOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ASteamOS)
   * [Meta Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Meta+Horizon+OS%22)
@@ -86,4 +87,4 @@ Once reviewed, the link will be published in the appropriate category in the [Di
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
